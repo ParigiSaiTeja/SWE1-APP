@@ -3,4 +3,4 @@
 [![Coverage Status](https://coveralls.io/repos/github/ParigiSaiTeja/SWE1-APP/badge.svg?branch=main)](https://coveralls.io/github/ParigiSaiTeja/SWE1-APP?branch=main)
 
 
-Application Link: django-env.eba-bmhpeegp.us-east-1.elasticbeanstalk.com/polls
+Application Link: http://django-env.eba-bmhpeegp.us-east-1.elasticbeanstalk.com/polls/
